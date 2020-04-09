@@ -1,3 +1,5 @@
 url: http://www.dimensionit.tv
 name: Dimension IT TV
 description: SCOM, PowerShell, SQL, VMware, Hyper-V
+
+theme: jekyll-theme-architect
